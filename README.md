@@ -1,5 +1,11 @@
 ## Olá! Meu nome é Nicolas
 
+- sou desenvolvedor a 2 anos
+- tenho 13 anos
+- sou desenvolvedor backend
+- minha stack principal é: postgresql, node, react 
+-  outras skills: java springboot, go lang gin gonic , arquiteturas e versionamento de codigo com git otimizado
+
 <!--
 **Nicolas-Asafe/Nicolas-Asafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
